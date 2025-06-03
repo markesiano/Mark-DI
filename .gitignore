@@ -1,0 +1,6 @@
+target/
+*.impl
+*.idea/
+*.class
+*.log
+src/test
