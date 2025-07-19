@@ -5,8 +5,8 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.markesiano</groupId>
-    <artifactId>marke-di</artifactId>
-    <version>1.0.0</version>
+    <artifactId>markdi</artifactId>
+    <version>1.0.4</version>
     <packaging>jar</packaging>
 
     <name>Inyector de Dependencias</name>
